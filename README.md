@@ -4,10 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Amy Liu
-Athena Luo
-Mya Pyke
-Kushboo Agrawal
+Amy Liu <br/>
+Athena Luo <br/>
+Mya Pyke <br/>
+Kushboo Agrawal <br/>
 
 ## Stakeholders
 
