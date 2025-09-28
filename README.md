@@ -11,7 +11,6 @@ Kushboo Agrawal <br/>
 
 ## Stakeholders
 
-__Stake Holders:<br/>__
 Annie Chen<br/>
 Peppa Pai<br/>
 Sunidhi Tandel<br/>
