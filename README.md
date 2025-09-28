@@ -11,6 +11,13 @@ Kushboo Agrawal <br/>
 
 ## Stakeholders
 
+Stake Holders:<br/>
+Annie Chen<br/>
+Peppa Pai<br/>
+Sunidhi Tandel<br/>
+Mya's Friend<br/>
+Gracie<br/>
+
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
 ## Product Vision Statement
@@ -19,7 +26,24 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+## User Stories
+
+As a friend planner, I want to choose location(s) and see them on a map so that we can share nearby restaurant options and pick a place together.<br/>
+As a neighborhood explorer, I want to know what restaurants are around me, what I can get there at what price, and when these places open, so that I can plan easily.<br/>
+As a foodie, I want to see trending restaurants near me, so that I can join the hype before it fades.<br/>
+As a traveler in a new city, I want to see recommendations from locals, so that I don’t end up in tourist traps.<br/>
+As a health-conscious user, I want to filter restaurants by vegetarian, vegan, or specific meat options, so that dietary restrictions are respected.<br/>
+As a cultural food lover, I want to browse all types of cuisines, so that I can explore diverse food cultures.<br/>
+As a picky eater, I want to preview the actual portion sizes in photos, so that I know if it’s worth the price.<br/>
+As a person who likes trying new food, I want to see each restaurant’s chef specialties today, so that I don’t miss out on seasonal dishes.<br/>
+As a person who prefers walk-ins, I want to see accurate current wait times or join a wait list through the app, so that I don’t waste time waiting forever.<br/>
+As a person who loves last-minute parties with friends, I want the app to suggest restaurants in the middle for everyone, along with wait times, so that planning is fast and fair.<br/>
+As an event planner, I want to filter restaurants by ambience (casual, romantic, fancy), so that the vibe matches the occasion.<br/>
+As a socially anxious user, I want to make reservations with one tap, so that I can avoid stressful phone calls or emails.<br/>
+As a person who hates ads and sponsors, I want to see only real comments from real customers, so that I can trust the reviews.<br/>
+As a person who loves collecting restaurant places, I want to track where I’ve been, record my thoughts, and share them when needed.<br/>
+As a person who loves sharing restaurants with friends, I want a shared restaurant folder, so that we don’t need to dig through chat histories to re-evaluate choices.<br/>
+As a foodie influencer, I want to share my restaurant list publicly, so that others can see my recommendations.<br/>
 
 ## Activity Diagrams
 
