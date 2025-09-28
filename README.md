@@ -17,8 +17,15 @@ Peppa Pai<br/>
 Sunidhi Tandel<br/>
 Mya's Friend<br/>
 Gracie<br/>
+<br/>
+Goals:<br/>
+Collect and share restaurants with friends with ease.<br/>
+Filters for price, dietary restrictions (allergy, vegan/vegetarian), and ambience to match different needs.<br/>
+Simple rating system and authentic customer feedback to support better decisions.<br/>
+Easy to reserve or to get in the line for a restaurant.<br/>
+<br/>
+Problems:<br/>
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
 ## Product Vision Statement
 
