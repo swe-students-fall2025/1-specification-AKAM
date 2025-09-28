@@ -25,6 +25,10 @@ Simple rating system and authentic customer feedback to support better decisions
 Easy to reserve or to get in the line for a restaurant.<br/>
 <br/>
 Problems:<br/>
+Menus and operating hours are not kept up to date.<br/>
+Hard to coordinate because friends are in different locations.<br/>
+Real-time wait times are missing.<br/>
+Sponsored content/ads feel spammy or misleading.<br/>
 
 
 ## Product Vision Statement
