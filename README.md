@@ -11,20 +11,20 @@ Kushboo Agrawal <br/>
 
 ## Stakeholders
 
-** Stake Holders:<br/> **
+__Stake Holders:<br/>__
 Annie Chen<br/>
 Peppa Pai<br/>
 Sunidhi Tandel<br/>
 Mya's Friend<br/>
 Gracie<br/>
 <br/>
-** Goals:<br/> **
+__Goals:<br/>__
 Collect and share restaurants with friends with ease.<br/>
 Filters for price, dietary restrictions (allergy, vegan/vegetarian), and ambience to match different needs.<br/>
 Simple rating system and authentic customer feedback to support better decisions.<br/>
 Easy to reserve or to get in the line for a restaurant.<br/>
 <br/>
-** Problems:<br/> **
+__Problems:<br/>__
 Menus and operating hours are not kept up to date.<br/>
 Hard to coordinate because friends are in different locations.<br/>
 Real-time wait times are missing.<br/>
