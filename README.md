@@ -10,12 +10,7 @@ Mya Pyke <br/>
 Kushboo Agrawal <br/>
 
 ## Stakeholders
-
-Annie Chen<br/>
-Peppa Pai<br/>
-Sunidhi Tandel<br/>
-Mya's Friend<br/>
-Gracie<br/>
+Aly Shiu<br/>Annie Chen<br/>Gracie<br/>Peppa Pai<br/>Rocky Masci<br/>Sunidhi Tandel<br/>
 <br/>
 __Goals:<br/>__
 Collect and share restaurants with friends with ease.<br/>
