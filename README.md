@@ -10,8 +10,12 @@ Mya Pyke <br/>
 Kushboo Agrawal <br/>
 
 ## Stakeholders
-Aly Shiu <br/> Annie Chen <br/> Gracie <br/> Peppa Pai <br/> Rocky Masci <br/> Sunidhi Tandel <br/>
-<br/>
+Aly Shiu <br/> 
+Annie Chen <br/> 
+Gracie <br/> 
+Peppa Pai <br/> 
+Rocky Masci <br/> 
+Sunidhi Tandel <br/>
 
 ## Four Needs/Goals
 * Collect and share restaurants with friends with ease.
@@ -35,7 +39,7 @@ Aly Shiu <br/> Annie Chen <br/> Gracie <br/> Peppa Pai <br/> Rocky Masci <br/> S
 
 1. As a new user, I want to sign up and verify my email so that my favorites and history are saved.
 2. As a returning user, I want to sign in or reset my password so that I can get back into my account fast.
-3. As a nearby diner, I want to allow or skip location access so that I can either see places near me or choose a different area.
+3. As some one new to the city, I want to search for restaurants by entering an area or using my current location so that I can find nearby places without typing in details.
 4. As a friend planner, I want to pick one or more locations on a map (mine and friends’) so that we can see fair, central options together.
 5. As an information seeker, I want a restaurant page with photos, live hours, cuisine, price range, and a website link so that I know what to expect.
 6. As a visual shopper, I want to view the gallery and rate photo accuracy (1–10) so that others can trust the pictures.
@@ -47,9 +51,19 @@ Aly Shiu <br/> Annie Chen <br/> Gracie <br/> Peppa Pai <br/> Rocky Masci <br/> S
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+* As a new user, I want to sign up and verify my email so that my favorites and history are saved.
+* As a returning user, I want to sign in or reset my password so that I can get back into my account fast.
+
+  ![Authentication flow](assets/login-UML.png)
+
+<br/> 
+
+* As some one new to the city, I want to search for restaurants by entering an area or using my current location so that I can find nearby places without typing in details.
+
+  ![Authentication flow](assets/location-UML.png)
+
 
 ## Clickable Prototype
 
 [Figma Prototype](https://www.figma.com/proto/SLCo97OuaafxCknkKgHSoW/restaurant-recommendations?page-id=40%3A67&node-id=141-202&viewport=-7579%2C-98%2C0.94&t=XO67QWLvRS9N7drm-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=141%3A202)
-
+cs
