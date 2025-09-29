@@ -22,7 +22,6 @@ Sunidhi Tandel <br/>
 * Filters for price, dietary restrictions (allergy, vegan/vegetarian), and ambience to match different needs.
 * Simple rating system and authentic customer feedback to support better decisions.
 * Easy to reserve or to get in the line for a restaurant.
-<br/>
 
 ## Four Problems/Frustrations
 * Menus and operating hours are not kept up to date.
