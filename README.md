@@ -65,4 +65,3 @@ Sunidhi Tandel <br/>
 ## Clickable Prototype
 
 [Figma Prototype](https://www.figma.com/proto/SLCo97OuaafxCknkKgHSoW/restaurant-recommendations?page-id=40%3A67&node-id=141-202&viewport=-7579%2C-98%2C0.94&t=XO67QWLvRS9N7drm-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=141%3A202)
-cs
