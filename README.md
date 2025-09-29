@@ -62,6 +62,12 @@ Sunidhi Tandel <br/>
   ![Authentication flow](assets/location-UML.png)
 
 
+## Wireframes
+
+[Figma Wireframe](https://www.figma.com/design/SLCo97OuaafxCknkKgHSoW/restaurant-recommendations?node-id=40-67&t=3E7bqyy5o2FIawQH-1)
+
+
+
 ## Clickable Prototype
 
 [Figma Prototype](https://www.figma.com/proto/SLCo97OuaafxCknkKgHSoW/restaurant-recommendations?page-id=40%3A67&node-id=141-202&viewport=-7579%2C-98%2C0.94&t=XO67QWLvRS9N7drm-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=141%3A202)
