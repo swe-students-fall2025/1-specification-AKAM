@@ -77,14 +77,14 @@ Sunidhi Tandel <br/>
 
 
 #### Notes
-  Everything that is <u>underline</u> is clickable.  
-  Some buttons (with no underline) might seems to be clickable. They are not because such feature can't be demostrated via Figma. 
+* Everything that is <u>underline</u> is clickable.  
+* Some buttons (with no underline) might seems to be clickable. They are not because such feature can't be demostrated via Figma. 
 
   For Example: 
   * The button to ask the App to resend email verfication would not be clickable 
     * because the user would need to acess external app (email)
     * also because the Figma button doesn't support clean same page scroll-to interaction
 
-  Everything that is light grey is a input field.
-  Everything that was light grey first but then turns to dark grey is a input fieled that was completed with user input.
+* Everything that is light grey is a input field.  
+* Everything that was light grey first but then turns to dark grey is a input fieled that was completed with user input.
 
