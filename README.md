@@ -86,5 +86,5 @@ Sunidhi Tandel <br/>
     * also because the Figma button doesn't support clean same page scroll-to interaction
 
 * Everything that is light grey is a input field.  
-* Everything that was light grey first but then turns to dark grey is a input fieled that was completed with user input.
+* Everything that was light grey first but then turns to dark grey is a input field that was completed with user input.
 
