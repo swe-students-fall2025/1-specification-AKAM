@@ -36,17 +36,36 @@ Sunidhi Tandel <br/>
 
 ## User Stories
 
-1. As a new user, I want to sign up and verify my email so that my favorites and history are saved.
-2. As a returning user, I want to sign in or reset my password so that I can get back into my account fast.
-3. As some one new to the city, I want to search for restaurants by entering an area or using my current location so that I can find nearby places without typing in details.
-4. As a friend planner, I want to pick one or more locations on a map (mine and friends’) so that we can see fair, central options together.
-5. As an information seeker, I want a restaurant page with photos, live hours, cuisine, price range, and a website link so that I know what to expect.
-6. As a visual shopper, I want to view the gallery and rate photo accuracy (1–10) so that others can trust the pictures.
-7. As a helpful guest, I want to submit the real wait time I experienced so that other people can plan better.
-8. As a reviewer, I want to write a short review and add photos so that I can share my experience.
-9. As a collector, I want to save places to Favorites and view my lists (mine, friends’, and all) so that planning with others is easy.
-10. As a community member, I want to see my history (visited, reviews, photos) on my dashboard so that I can track and share what I’ve done.
-11. As a social diner, I want to find friends and chat in the inbox/DMs—and view a friend’s profile versus a stranger’s—so that I can coordinate and control what I share.
+1. As a regular user, I want to create an account and log in with my account so that my searches, reviews, and favorite restaurants are saved across devices.
+2. As a frequent searcher, I want the app to remember my search history so that I can quickly revisit places I looked up before.
+3. As a returning diner, I want to search for restaurants by name and cuisine type, and sort my search results so that I can quickly discover options that fit what I’m looking for.
+4. As a cultural food lover, I want to browse all types of cuisines, so that I can explore diverse food cultures.
+5. As a curious eater, I want to browse a gallery of restaurant photos so that I can see what the food and place look like.
+6. As a neighborhood explorer, I want to know what restaurants are around me, what I can get there at what price, and when these places open, so that I can plan easily.
+7. As a traveler in a new city, I want to see recommendations from locals, so that I don’t end up in tourist traps.
+8. As someone who eats out often, I want personalized restaurant recommendations based on my past searches, reviews, and photos so that I can discover new places I might like.
+9. As a friend planner, I want to choose location(s) and see them on a map so that we can share nearby restaurant options and pick a place together.
+10. As a user, I want to see restaurants on a map (with circles around my area) so that I can understand which ones are nearby.
+11. As someone deciding where to eat, I want to sort restaurants by distance, price, rating, or wait time so that I can choose based on what matters to me most.
+12. As a health-conscious user, I want to filter restaurants by vegetarian, vegan, or specific meat options, so that dietary restrictions are respected.
+13. As an event planner, I want to filter restaurants by ambience (casual, romantic, fancy), so that the vibe matches the occasion.
+14. As a diner, I want each restaurant card to show me distance, price, rating, cuisine type, and wait time so that I can quickly compare options.
+15. As a foodie, I want to see trending restaurants near me, so that I can join the hype before it fades.
+16. As a picky eater, I want to preview the actual portion sizes in photos, so that I know if it’s worth the price.
+17. As a person who likes trying new food, I want to see each restaurant’s chef specialties today, so that I don’t miss out on seasonal dishes.
+18. As a person who prefers walk-ins, I want to see accurate current wait times or join a wait list through the app, so that I don’t waste time waiting forever.
+19. As a guest, I want to see live wait times (with user updates) so that I can avoid long lines.
+20. As a customer, I want a simple way to submit the actual wait time I experienced so that I can help others make better choices.
+21. As a friend planner, I want to invite people to “party mode” so that we can share restaurant options together.
+22. As a person who loves last-minute parties with friends, I want the app to suggest restaurants in the middle for everyone, along with wait times, so that planning is fast and fair.
+23. As a socially anxious user, I want to make reservations with one tap, so that I can avoid stressful phone calls or emails.
+24. As a person who hates ads and sponsors, I want to see only real comments from real customers, so that I can trust the reviews.
+25. As a reviewer, I want to rate how accurate photos are compared to reality so that other people can trust the pictures.
+26. As a visitor, I want a pop-up asking if I went to the restaurant I searched for so that I can easily leave a review.
+27. As a reviewer, I want to add pictures, notes, and a rating about my dining experience so that others can benefit from my feedback.
+28. As a person who loves collecting restaurant places, I want to track where I’ve been, record my thoughts, and share them when needed.
+29. As a person who loves sharing restaurants with friends, I want a shared restaurant folder, so that we don’t need to dig through chat histories to re-evaluate choices.
+30. As a foodie influencer, I want to share my restaurant list publicly, so that others can see my recommendations.
 
 ## Activity Diagrams
 
